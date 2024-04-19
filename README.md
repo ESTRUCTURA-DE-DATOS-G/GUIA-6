@@ -14,7 +14,9 @@ utilizadas en Java? Realice un cuadro comparativo
 
 Identifique 5 aplicaciones de las listas circulares en el ámbito de su carrera
 *SOLUCION |*
+
 3. Explique claramente en qué consiste una pila y como es su funcionamiento.
 *SOLUCION |*
-4. Describa 3 aplicaciones de las pilas en su vida como ingeniero.
+
+5. Describa 3 aplicaciones de las pilas en su vida como ingeniero.
 *SOLUCION |*

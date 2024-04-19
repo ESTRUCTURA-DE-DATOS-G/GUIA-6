@@ -20,6 +20,6 @@ Identifique 5 aplicaciones de las listas circulares en el ámbito de su carrera
 
 *SOLUCION |*
 
-5. Describa 3 aplicaciones de las pilas en su vida como ingeniero.
+4. Describa 3 aplicaciones de las pilas en su vida como ingeniero.
 
 *SOLUCION |*

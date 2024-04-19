@@ -13,5 +13,8 @@ utilizadas en Java? Realice un cuadro comparativo
 *SOLUCION |* https://docs.google.com/document/d/1Jd6sz0XTGTCEdaqxe5aD4114TR2kyUG3A-GdaCJk-I8/edit?usp=sharing
 
 Identifique 5 aplicaciones de las listas circulares en el ámbito de su carrera
+*SOLUCION |*
 3. Explique claramente en qué consiste una pila y como es su funcionamiento.
+*SOLUCION |*
 4. Describa 3 aplicaciones de las pilas en su vida como ingeniero.
+*SOLUCION |*

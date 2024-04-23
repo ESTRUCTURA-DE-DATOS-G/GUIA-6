@@ -47,6 +47,23 @@ Empty (Vacía): Se utiliza el método empty() para verificar si la pila está va
    
 3. Implementación de algoritmos de búsqueda en profundidad (DFS): En algoritmos de búsqueda en grafos como el DFS (Depth-First Search), las pilas son utilizadas para mantener un seguimiento de los nodos visitados y los nodos vecinos que aún no han sido explorados, lo que permite recorrer el grafo de manera recursiva.
 
+### Presaberes Requeridos:
+
+1. Son secuencias de elementos almacenados en una lista encadenada
+   
+a. Pila
+
+2. Comparadas con los vectores, estas permiten una mayor rapidez de inserción
+y borrado, pero una menor velocidad de acceso aleatorio Pilas Listas Colas.
+
+c. Lista
+
+3. Es una estructura FIFO, first in, firstout.
+
+b. Colas
+
+
+
 ### Trabajo Autonomo:
 
 Describir cómo se declara una pila en los siguientes lenguajes de programación:

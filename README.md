@@ -46,3 +46,65 @@ Empty (Vacía): Se utiliza el método empty() para verificar si la pila está va
 2. Gestión de llamadas en sistemas operativos: En sistemas operativos, las pilas son utilizadas para gestionar las llamadas a funciones y el paso de parámetros entre ellas, lo que permite mantener un seguimiento de las llamadas activas y las variables locales de cada función.
    
 3. Implementación de algoritmos de búsqueda en profundidad (DFS): En algoritmos de búsqueda en grafos como el DFS (Depth-First Search), las pilas son utilizadas para mantener un seguimiento de los nodos visitados y los nodos vecinos que aún no han sido explorados, lo que permite recorrer el grafo de manera recursiva.
+
+Describir cómo se declara una pila en los siguientes lenguajes de programación:
+Pascal, Crystal, D, Delphi, Elisa, Forth, Julia, Lingo, Mercury, Prolog, Ruby, UnixPipes, R.
+
+*SOLUCION |*
+
+Pascal: 
+
+type
+  Stack = array[1..MAX_SIZE] of Integer;
+  
+Crystal:
+
+stack = Array(Int32)
+
+D:
+
+Stack!(int) stack;
+
+Delphi:
+
+var
+  stack: array of Integer;
+  
+Elisa:
+
+stack : [Int] # Declaración de una pila de enteros
+
+Forth:
+
+CREATE stack 10 CELLS ALLOT
+
+Julia:
+
+stack = Int[]
+
+Lingo:
+
+global stack = []
+
+Mercury:
+
+:- type stack(T) == list(T).
+
+Prolog:
+
+:- dynamic(stack/1).
+
+Ruby:
+
+stack = []
+
+UnixPipes:
+
+declare -a my_stack
+
+R:
+
+stack <- NULL
+
+
+

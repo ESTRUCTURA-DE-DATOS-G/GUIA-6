@@ -47,7 +47,7 @@ Empty (Vacía): Se utiliza el método empty() para verificar si la pila está va
    
 3. Implementación de algoritmos de búsqueda en profundidad (DFS): En algoritmos de búsqueda en grafos como el DFS (Depth-First Search), las pilas son utilizadas para mantener un seguimiento de los nodos visitados y los nodos vecinos que aún no han sido explorados, lo que permite recorrer el grafo de manera recursiva.
 
-###Trabajo Autonomo:
+### Trabajo Autonomo:
 
 Describir cómo se declara una pila en los siguientes lenguajes de programación:
 Pascal, Crystal, D, Delphi, Elisa, Forth, Julia, Lingo, Mercury, Prolog, Ruby, UnixPipes, R.

@@ -28,8 +28,21 @@ Aplicaciones en sistemas de gestión de memoria: En sistemas operativos y entorn
 
 3. Explique claramente en qué consiste una pila y como es su funcionamiento.
 
-*SOLUCION |*
+*SOLUCION |* Una pila en Java es una estructura de datos que sigue el principio de LIFO (Last In, First Out), lo que significa que el último elemento en ser insertado es el primero en ser eliminado. En Java, las pilas son implementadas mediante la clase Stack, que es una subclase de Vector.
+
+El funcionamiento de una pila en Java se puede resumir en los siguientes puntos:
+
+Push (Empujar): Se utiliza el método push() para insertar un elemento en la parte superior de la pila. Este elemento se coloca en la posición superior de la pila.
+Pop (Sacar): Se utiliza el método pop() para eliminar y devolver el elemento que está en la parte superior de la pila. Este elemento es eliminado de la pila.
+Peek (Mirar): Se utiliza el método peek() para obtener el elemento que está en la parte superior de la pila sin eliminarlo. Este método devuelve el elemento, pero no lo elimina de la pila.
+Empty (Vacía): Se utiliza el método empty() para verificar si la pila está vacía o no. Devuelve true si la pila está vacía y false si contiene elementos.
 
 4. Describa 3 aplicaciones de las pilas en su vida como ingeniero.
 
 *SOLUCION |*
+
+1. Evaluación de expresiones aritméticas: Las pilas son ampliamente utilizadas en la evaluación de expresiones aritméticas en la conversión de notación infija a postfija y en el cálculo del resultado. Por ejemplo, en la implementación de calculadoras o en el análisis de fórmulas matemáticas en programas de ingeniería.
+
+2. Gestión de llamadas en sistemas operativos: En sistemas operativos, las pilas son utilizadas para gestionar las llamadas a funciones y el paso de parámetros entre ellas, lo que permite mantener un seguimiento de las llamadas activas y las variables locales de cada función.
+   
+3. Implementación de algoritmos de búsqueda en profundidad (DFS): En algoritmos de búsqueda en grafos como el DFS (Depth-First Search), las pilas son utilizadas para mantener un seguimiento de los nodos visitados y los nodos vecinos que aún no han sido explorados, lo que permite recorrer el grafo de manera recursiva.
